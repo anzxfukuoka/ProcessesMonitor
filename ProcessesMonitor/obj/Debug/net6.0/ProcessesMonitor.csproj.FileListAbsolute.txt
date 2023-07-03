@@ -1,0 +1,15 @@
+C:\MISC\Dev\DotNet\ProcessesMonitor\ProcessesMonitor\bin\Debug\net6.0\ProcessesMonitor.exe
+C:\MISC\Dev\DotNet\ProcessesMonitor\ProcessesMonitor\bin\Debug\net6.0\ProcessesMonitor.deps.json
+C:\MISC\Dev\DotNet\ProcessesMonitor\ProcessesMonitor\bin\Debug\net6.0\ProcessesMonitor.runtimeconfig.json
+C:\MISC\Dev\DotNet\ProcessesMonitor\ProcessesMonitor\bin\Debug\net6.0\ProcessesMonitor.dll
+C:\MISC\Dev\DotNet\ProcessesMonitor\ProcessesMonitor\bin\Debug\net6.0\ProcessesMonitor.pdb
+C:\MISC\Dev\DotNet\ProcessesMonitor\ProcessesMonitor\obj\Debug\net6.0\ProcessesMonitor.csproj.AssemblyReference.cache
+C:\MISC\Dev\DotNet\ProcessesMonitor\ProcessesMonitor\obj\Debug\net6.0\ProcessesMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\MISC\Dev\DotNet\ProcessesMonitor\ProcessesMonitor\obj\Debug\net6.0\ProcessesMonitor.AssemblyInfoInputs.cache
+C:\MISC\Dev\DotNet\ProcessesMonitor\ProcessesMonitor\obj\Debug\net6.0\ProcessesMonitor.AssemblyInfo.cs
+C:\MISC\Dev\DotNet\ProcessesMonitor\ProcessesMonitor\obj\Debug\net6.0\ProcessesMonitor.csproj.CoreCompileInputs.cache
+C:\MISC\Dev\DotNet\ProcessesMonitor\ProcessesMonitor\obj\Debug\net6.0\ProcessesMonitor.dll
+C:\MISC\Dev\DotNet\ProcessesMonitor\ProcessesMonitor\obj\Debug\net6.0\refint\ProcessesMonitor.dll
+C:\MISC\Dev\DotNet\ProcessesMonitor\ProcessesMonitor\obj\Debug\net6.0\ProcessesMonitor.pdb
+C:\MISC\Dev\DotNet\ProcessesMonitor\ProcessesMonitor\obj\Debug\net6.0\ProcessesMonitor.genruntimeconfig.cache
+C:\MISC\Dev\DotNet\ProcessesMonitor\ProcessesMonitor\obj\Debug\net6.0\ref\ProcessesMonitor.dll

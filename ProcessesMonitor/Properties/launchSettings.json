@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProcessesMonitor": {
+      "commandName": "Project",
+      "commandLineArgs": "notepad 5 1"
+    }
+  }
+}
